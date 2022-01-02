@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Green Leaf Lettuce",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FZRynchJY%2FGreen-Leaf-Lettuce-each.jpg&w=256&q=75",
+        "price": 14
+    },
+    {
+        "id": 2,
+        "name": "Rainbow Chard",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FZ5yQ47YB%2FRainbow-Chard-Package-per-lb.jpg&w=256&q=75",
+        "price": 12
+    },
+    {
+        "id": 3,
+        "name": "Kale Sprouts",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FryxzRchQ%2FKale-Sprouts-3oz.jpg&w=256&q=75",
+        "price": 13
+    },
+    {
+        "id": 4,
+        "name": "Rainbow Peppers",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FqRpDcpsy%2FRainbow-Peppers-4ct.jpg&w=256&q=75",
+        "price": 14
+    },
+    {
+        "id": 5,
+        "name": "Blueberry",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FL8L3XGcP%2FBlackberries-1-25-qt.jpg&w=256&q=75",
+        "price": 14
+    },
+    {
+        "id": 6,
+        "name": "Calabaza Squash",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FZRynchJY%2FGreen-Leaf-Lettuce-each.jpg&w=256&q=75",
+        "price": 14
+    },
+    {
+        "id": 7,
+        "name": "Lettuce",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FGhRtkNVr%2FLettuce-1lb.jpg&w=256&q=75",
+        "price": 14
+    },
+    {
+        "id": 8,
+        "name": "Radicchio",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2F5y7rNDFv%2FRadicchio-12ct.jpg&w=256&q=75",
+        "price": 14
+    },
+    {
+        "id": 9,
+        "name": "Parsley",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FwvzZWXpt%2FParsley-each.jpgg&w=256&q=75",
+        "price": 14
+    },
+    {
+        "id": 10,
+        "name": "Strawberrie",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FNFXkHVKZ%2FStrawberries-9-25oz.jpg&w=256&q=75",
+        "price": 14
+    },
+    {
+        "id": 11,
+        "name": "Cauliflower",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2FvHwg0D1J%2FCauliflower-1-35lb.jpg&w=256&q=75",
+        "price": 14
+    },
+    {
+        "id": 12,
+        "name": "Organic Purple Cauliflower",
+        "img": "https://kachabazar-store.vercel.app/_next/image?url=https%3A%2F%2Fi.postimg.cc%2F9FN3WwGS%2FOrganic-Purple-Cauliflower-1lb.jpg&w=256&q=75",
+        "price": 14
+    }
+]
